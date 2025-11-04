@@ -12,6 +12,7 @@
 ![WPF Product Inventory](Images/2.png)
 
 - SQL Server database integration
+- 
 ![SQL Server Products Table](Images/3.png)
 
 - Add new product
@@ -30,4 +31,5 @@
 ![Delete Product](Images/8.png)
 
 - Deleted product in SQL Server table
+- 
 ![Delete Product in SQL Server Table](Images/9.png)
